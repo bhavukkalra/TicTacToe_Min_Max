@@ -4,11 +4,11 @@ This is a piece of reference material(Code) to go along with the research
 
 ## Installation
 
-Use the package manager [pip]() to develop Tic Tac Toe on your local system and Install all its dependencies
+Use the package manager [pip]() for Python3 to develop Tic Tac Toe on your local system and Install all its dependencies
 
 
 ```bash
-pip install
+pip install -r requirements.txt
 ```
 
 ## Usage

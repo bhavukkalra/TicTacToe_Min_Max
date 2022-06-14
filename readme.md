@@ -16,7 +16,10 @@ pip install -r requirements.txt
 To Start the development Server run. Navigate to the assigned port on the terminal to open the app
 
 ```bash
-python server.py
+# activate virtual environment
+myenv\Scripts\activate
+# start the server
+python app.py
 ```
 
 ## Contributing
